@@ -1,0 +1,86 @@
+body {
+    background-color: hsl(47, 88%, 63%); 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    font-family: 'Figtree', sans-serif; 
+}
+
+.wrapper {
+    border: 1px solid hsl(0, 0%, 7%);
+    border-radius: 10px; 
+    background-color: white; 
+    margin-top: 30px; 
+    width: 21rem; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    padding: 1rem; 
+    box-shadow: 10px 10px; 
+}
+
+img {
+    /* border: 4px dotted green; */
+    border-radius: 10px;  
+    width: 100%; 
+}
+
+.card-text {
+    /* border: 4px solid blue;  */
+    padding-top: 1rem; 
+    font-size: 16px;
+}
+
+.progress-state {
+    font-size: 16px; 
+    padding: 0.25rem 0.5rem; 
+    background-color: hsl(47, 88%, 63%); 
+    font-weight: 800; 
+    border-radius: 5px; 
+}
+
+.publish-date {
+    font-weight: 500; 
+    margin-bottom: 10px; 
+    /* border: 2px solid red;  */
+}
+
+h2 {
+    /* border: 2px solid blue;  */
+    margin: 6px auto; 
+}
+
+.description {
+    color: hsl(0, 0%, 42%); 
+    font-size: 16px;
+    max-height: 60px; 
+    padding-bottom: 0px; 
+    margin: 0px auto 12.5px auto; 
+    /* border: 2px solid purple;  */
+}
+
+.author-section {
+    /* border: 2px solid peru;  */
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 0; 
+}
+.avatar-pic {
+    width: 35px; 
+}
+
+.author-name {
+    font-weight: 800;
+    color: hsl(0, 0%, 7%); 
+    margin-left: 12.5px; 
+    /* border: 2px solid salmon;   */
+}
+
+/* footer {
+    border: 4px dashed brown;  
+    display: flex; 
+    justify-content: center; 
+    font-size: 16px;
+} */
