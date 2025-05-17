@@ -1,4 +1,4 @@
-# My result (NinjaBiryani): 
+# My Result (NinjaBiryani): 
 
 ![blog-preview-preview1](https://github.com/user-attachments/assets/50d54e9c-8ea6-43e9-85d0-81530e651b58)
 
