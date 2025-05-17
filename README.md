@@ -2,8 +2,6 @@
 
 ![blog-preview-preview1](https://github.com/user-attachments/assets/50d54e9c-8ea6-43e9-85d0-81530e651b58)
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
